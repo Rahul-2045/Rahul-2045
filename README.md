@@ -8,10 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working @Almabetter
 - 🌱 I’m currently learning PYTHON,SQL
 - 👯 I’m looking to collaborate on Machine Learning Project
-- 🤔 I’m looking for help with 
 - 💬 Ask me about Machine Learning,Python,SQL
 - 📫 How to reach me https://www.linkedin.com/in/rahul-verma-176537234/
    Rahulverma4749544@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
