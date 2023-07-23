@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rahul-verma-176537234/](https://www.linkedin.com/in/rahul-verma-176537234/)
 
+- 📝 I regularly write articles on  https://medium.com/@rahulverma4749544/introduction-b4b31c016e2e
+
 - 💬 Ask me about **Machine learning ,python ,SQL**
 
 - 📫 How to reach me **Rahulverma4749544@gmail.com**
