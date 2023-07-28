@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science & Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rahul-verma-176537234/](https://www.linkedin.com/in/rahul-verma-176537234/)
+- 👨‍💻 All of my projects are available at www.linkedin.com/in/rahul-verma20
 
 - 📝 I regularly write articles on  https://medium.com/@rahulverma4749544/introduction-b4b31c016e2e
 
