@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rahul Verma</h1>
 <h3 align="center">Data Science Trainee @Almabetter From India</h3>
+<img align="right" alt="Coding" width="400" src=https://clipartspub.com/images/coding-clipart-person-6.jpg
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulverma2045&label=Profile%20views&color=0e75b6&style=flat" alt="rahulverma2045" /> </p>
 
+
+
+
 - 🔭 I’m currently working on **@Almabetter**
+
 
 - 🌱 I’m currently learning **python, SQL**
 
