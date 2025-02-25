@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Verma</h1>
-<h3 align="center">Data Science Trainee @Almabetter From India</h3>
+<h3 align="center">Data Analyst @Amplitude Software Systems From India</h3>
 <img align="right" alt="Coding" width="400" src=https://clipartspub.com/images/coding-clipart-person-6.jpg
 
 
