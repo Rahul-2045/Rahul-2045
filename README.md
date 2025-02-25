@@ -9,10 +9,10 @@
 
 
 
-- 🔭 I’m currently working on **@Almabetter**
+- 🔭 I’m currently working on **@Amplitude software systems**
 
 
-- 🌱 I’m currently learning **python, SQL**
+- 🌱 I’m currently working  **python, SQL, Ssis, Ssas**
 
 - 👯 I’m looking to collaborate on **Data Science & Data Analytics**
 
